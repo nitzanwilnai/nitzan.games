@@ -10,6 +10,7 @@ Creating original and unique game experiences.
 Cardwheel is a Balatro-inspired roguelite, created using data-oriented design principles in Unity.
 - [iOS](https://apps.apple.com/us/app/cardwheel/id6752916305)
 - [Android](https://play.google.com/store/apps/details?id=com.nitzan.games.Cardwheel)
+- [Steam Mac/PC/Steamdeck](https://store.steampowered.com/app/4047130/Cardwheel/)
 - [Source](https://github.com/nitzanwilnai/Cardwheel)
 
 ### Tankfinity
