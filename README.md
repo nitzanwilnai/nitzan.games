@@ -13,6 +13,11 @@ Cardwheel is a Balatro-inspired roguelite, created using data-oriented design pr
 - [Steam Mac/PC/Steamdeck](https://store.steampowered.com/app/4047130/Cardwheel/)
 - [Source](https://github.com/nitzanwilnai/Cardwheel)
 
+### Qwerty Garden
+#### A cozy typing game where you grow a garden on a keyboard
+- [Steam Mac/PC](https://store.steampowered.com/app/4255650/Qwerty_Garden/)
+- [Source](https://github.com/nitzanwilnai/QwertyGarden)
+
 ### Tankfinity
 #### Infinite scorched earth
 Tankfinity is a hyper-casual scorched-earth game.
