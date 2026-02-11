@@ -14,7 +14,8 @@ Cardwheel is a Balatro-inspired roguelite, created using data-oriented design pr
 - [Source](https://github.com/nitzanwilnai/Cardwheel)
 
 ### Qwerty Garden
-#### A cozy typing game where you grow a garden on a keyboard
+#### A cozy typing game
+Qwerty Garden is a cozy typing game where you grow a garden on a keyboard.
 - [Steam Mac/PC](https://store.steampowered.com/app/4255650/Qwerty_Garden/)
 - [Source](https://github.com/nitzanwilnai/QwertyGarden)
 
